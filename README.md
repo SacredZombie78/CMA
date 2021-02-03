@@ -1,2 +1,4 @@
-# CMAUpdates
-This project was made to add updates to Cid's Mad Adventure demo files. Basicaly, if I finish making a patch/update for the demo. This project will hold the new files for the demo. I will store all versions of the demo ONLY in this project.
+# CMA
+February 2, 2021
+Cid's Mad Adventure (CMA) is a my first attempt at making a turn-based RPG game. I plan on use RPG Maker MZ to develope this game while I learn how I want to style all of my future games using either Javascript, Java, or C# in combination with the Unity game engine. I've been working on this game for over a year with little time being spent on it due to lack of motivation, time, and engery that I can put into making this game while I work and study full-time, but I'm going to work on spending as much time as possible into developing the game as well as making multiple small prototype programs that I will use to help build my programming skills and experience to one day attempt to remake this game. I will be adding a development and version log to this repository as well as the files for the game and all of the prototype programs that I develope.
+
